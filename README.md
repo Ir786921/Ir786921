@@ -16,6 +16,8 @@
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
@@ -42,7 +44,7 @@
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/imran-raza-786mn/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Ir786921)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github)]([https://github.com/Ir786921](https://portfolio044.netlify.app/))
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranraza2016a@gmail.com)
 
 ---
