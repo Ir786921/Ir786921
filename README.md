@@ -38,8 +38,6 @@
 ### 🚀 Projects Worth Checking
 - 🎯 [Testify](#): AI-Powered Online Assessment Platform
 - 🎮 [Momix Clone](#): Movie Streaming Web App (React + Firebase)
-- 🛺 [totoUP](#): Uber for Toto rides, built with React Native + Firebase
-
 ---
 
 ### 🔗 Connect with Me
