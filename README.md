@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently exploring **Next.js, Expo**
-- 💼 Projects: [Testify](#), [Momix](#), [totoUP](#) (🚧 under dev)
+- 💼 Projects: [Testify](https://testify-frontend-x333.vercel.app/), [Momix](https://momix-new.vercel.app/) (🚧 under dev)
 - 👨‍💻 All of my work is available at [imranraza.dev](#)
 - 📫 Reach me at **imranraza2016a@gmail.com**
 - 🐱 Cat lover, code crafter & chai addict ☕
@@ -38,8 +38,8 @@
 ---
 
 ### 🚀 Projects Worth Checking
-- 🎯 [Testify](#): AI-Powered Online Assessment Platform
-- 🎮 [Momix Clone](#): Movie Streaming Web App (React + Firebase)
+- 🎯 [Testify]([testify-frontend-x333.vercel.app/](https://testify-frontend-x333.vercel.app/)): AI-Powered Online Assessment Platform
+- 🎮 [Momix]([momix-new.vercel.app](https://momix-new.vercel.app/)): Movie Streaming Web App (React + Firebase)
 ---
 
 ### 🔗 Connect with Me
